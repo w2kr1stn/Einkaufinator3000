@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000.ui;
+package de.hwr.w2kr1stn.einkaufinator3000.ui;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
@@ -25,10 +25,10 @@ import java.time.format.DateTimeFormatter;
 import java.util.Calendar;
 import java.util.List;
 
-import de.hwr.willi.einkaufinator3000.DBManager;
-import de.hwr.willi.einkaufinator3000.R;
-import de.hwr.willi.einkaufinator3000.databinding.FragmentStatsBinding;
-import de.hwr.willi.einkaufinator3000.model.ShoppingList;
+import de.hwr.w2kr1stn.einkaufinator3000.DBManager;
+import de.hwr.w2kr1stn.einkaufinator3000.R;
+import de.hwr.w2kr1stn.einkaufinator3000.databinding.FragmentStatsBinding;
+import de.hwr.w2kr1stn.einkaufinator3000.model.ShoppingList;
 
 public class StatsFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000;
+package de.hwr.w2kr1stn.einkaufinator3000;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -14,8 +14,8 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.hwr.willi.einkaufinator3000.model.Product;
-import de.hwr.willi.einkaufinator3000.model.ShoppingList;
+import de.hwr.w2kr1stn.einkaufinator3000.model.Product;
+import de.hwr.w2kr1stn.einkaufinator3000.model.ShoppingList;
 
 public class DBManager extends SQLiteOpenHelper {
 

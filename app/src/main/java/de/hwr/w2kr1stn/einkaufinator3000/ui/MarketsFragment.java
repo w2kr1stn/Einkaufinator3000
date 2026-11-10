@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000.ui;
+package de.hwr.w2kr1stn.einkaufinator3000.ui;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -19,9 +19,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import de.hwr.willi.einkaufinator3000.DBManager;
-import de.hwr.willi.einkaufinator3000.R;
-import de.hwr.willi.einkaufinator3000.databinding.FragmentMarketsBinding;
+import de.hwr.w2kr1stn.einkaufinator3000.DBManager;
+import de.hwr.w2kr1stn.einkaufinator3000.R;
+import de.hwr.w2kr1stn.einkaufinator3000.databinding.FragmentMarketsBinding;
 
 public class MarketsFragment extends Fragment {
 

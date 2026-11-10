@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000;
+package de.hwr.w2kr1stn.einkaufinator3000;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("de.hwr.willi.einkaufinator3000", appContext.getPackageName());
+        assertEquals("de.hwr.w2kr1stn.einkaufinator3000", appContext.getPackageName());
     }
 }

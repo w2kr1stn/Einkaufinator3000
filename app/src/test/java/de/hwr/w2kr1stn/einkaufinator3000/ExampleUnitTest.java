@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000;
+package de.hwr.w2kr1stn.einkaufinator3000;
 
 import org.junit.Test;
 

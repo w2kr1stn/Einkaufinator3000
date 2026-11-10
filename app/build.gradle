@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "de.hwr.willi.einkaufinator3000"
+        applicationId "de.hwr.w2kr1stn.einkaufinator3000"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1

@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000.ui;
+package de.hwr.w2kr1stn.einkaufinator3000.ui;
 
 import android.content.Context;
 import android.os.Build;
@@ -24,15 +24,15 @@ import com.google.android.material.snackbar.Snackbar;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.hwr.willi.einkaufinator3000.DBManager;
-import de.hwr.willi.einkaufinator3000.R;
-import de.hwr.willi.einkaufinator3000.databinding.FragmentListBinding;
-import de.hwr.willi.einkaufinator3000.model.Aldi;
-import de.hwr.willi.einkaufinator3000.model.Edeka;
-import de.hwr.willi.einkaufinator3000.model.Lidl;
-import de.hwr.willi.einkaufinator3000.model.Product;
-import de.hwr.willi.einkaufinator3000.model.Rewe;
-import de.hwr.willi.einkaufinator3000.model.ShoppingList;
+import de.hwr.w2kr1stn.einkaufinator3000.DBManager;
+import de.hwr.w2kr1stn.einkaufinator3000.R;
+import de.hwr.w2kr1stn.einkaufinator3000.databinding.FragmentListBinding;
+import de.hwr.w2kr1stn.einkaufinator3000.model.Aldi;
+import de.hwr.w2kr1stn.einkaufinator3000.model.Edeka;
+import de.hwr.w2kr1stn.einkaufinator3000.model.Lidl;
+import de.hwr.w2kr1stn.einkaufinator3000.model.Product;
+import de.hwr.w2kr1stn.einkaufinator3000.model.Rewe;
+import de.hwr.w2kr1stn.einkaufinator3000.model.ShoppingList;
 
 public class ListFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000;
+package de.hwr.w2kr1stn.einkaufinator3000;
 
 import android.os.Bundle;
 import android.view.View;
@@ -14,7 +14,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
-import de.hwr.willi.einkaufinator3000.databinding.ActivityMainBinding;
+import de.hwr.w2kr1stn.einkaufinator3000.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        de.hwr.willi.einkaufinator3000.databinding.ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
+        de.hwr.w2kr1stn.einkaufinator3000.databinding.ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
         setSupportActionBar(binding.appBarMain.toolbar);

@@ -1,4 +1,4 @@
-package de.hwr.willi.einkaufinator3000.ui;
+package de.hwr.w2kr1stn.einkaufinator3000.ui;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-import de.hwr.willi.einkaufinator3000.R;
-import de.hwr.willi.einkaufinator3000.databinding.FragmentHomeBinding;
+import de.hwr.w2kr1stn.einkaufinator3000.R;
+import de.hwr.w2kr1stn.einkaufinator3000.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 
